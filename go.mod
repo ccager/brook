@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/websocket v1.5.0
 	github.com/mdp/qrterminal v1.0.1
 	github.com/miekg/dns v1.1.43
 	github.com/patrickmn/go-cache v2.1.0+incompatible
@@ -14,9 +15,8 @@ require (
 	github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf
 	github.com/txthinking/socks5 v0.0.0-20211121111206-e03c1217a50b
 	github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.4.0
 	github.com/urfave/negroni v1.0.0
-	github.com/yuzuki999/websocket v1.5.1-0.20220320035949-a5c9b3203d18
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
 	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4
 )
