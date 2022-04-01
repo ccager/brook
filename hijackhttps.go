@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	"github.com/txthinking/brook/limits"
+	"github.com/ccager/brook/limits"
 	"github.com/txthinking/runnergroup"
 	"golang.org/x/net/proxy"
 )
