@@ -124,5 +124,5 @@ then
     exit
 fi
 
-nami release github.com/ccager/brook $1 _
+
 rm -rf _
