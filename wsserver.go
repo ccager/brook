@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/gorilla/websocket"
+	"github.com/yuzuki999/websocket"
 	cache "github.com/patrickmn/go-cache"
 	"github.com/txthinking/brook/limits"
 	crypto1 "github.com/txthinking/crypto"
