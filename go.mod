@@ -1,4 +1,4 @@
-module github.com/txthinking/brook
+module github.com/ccager/brook
 
 go 1.16
 
