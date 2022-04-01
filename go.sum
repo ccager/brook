@@ -33,7 +33,7 @@ github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe h1:gMWxZxBFRAXqoGkwkY
 github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
 github.com/ccager/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
 github.com/ccager/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
-github.com/ccager/websocket v1.5.1-0.20220320035949-a5c9b3203d18 h1:xitGTtwoRBGIQNRSCIX474+BpTru9exJcpQJXigVarA=
+github.com/ccager/websocket v1.5.1-0.20220320035949-a5c9b3203d18 h1:fSN8ONmsZ/6bZq8v5lNjftpAbHjUlxJLg7cZMgwrTHI=
 github.com/ccager/websocket v1.5.1-0.20220320035949-a5c9b3203d18/go.mod h1:3gDA3Ee5Bry1s0CfCV7LMWqZ8H7ki1RSWT18lmLNEQU=
 github.com/urfave/cli/v2 v2.3.0 h1:qph92Y649prgesehzOrQjdWyxFOp/QVM+6imKHad91M=
 github.com/urfave/cli/v2 v2.3.0/go.mod h1:LJmUH05zAU44vOAcrfzZQKsZbVcdbOG8rtL3/XcUArI=
