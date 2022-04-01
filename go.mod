@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.0
 	github.com/mdp/qrterminal v1.0.1
 	github.com/miekg/dns v1.1.43
 	github.com/patrickmn/go-cache v2.1.0+incompatible
