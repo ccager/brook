@@ -16,7 +16,7 @@ require (
 	github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/urfave/negroni v1.0.0
-	github.com/yuzuki616/websocket v1.5.1-0.20220320035949-a5c9b3203d18
+	github.com/ccager/websocket v1.5.1-0.20220320035949-a5c9b3203d18
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
 	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4
 )
